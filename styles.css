@@ -8,8 +8,9 @@
 .hero {
     height: 100vh;
     width: 100%;
+    background-image: url(https://github.com/flaviojnsilva/myPage/blob/main/img/photo1.png?raw=true);
     background-size: cover;
-    background: #101010 center;
+    background-position: center;
 }
 
 nav {
