@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b05db5c-c960-4eae-81af-7d0ff4265328" name="Changes" comment="12:05">
+    <list default="true" id="5b05db5c-c960-4eae-81af-7d0ff4265328" name="Changes" comment="12:12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <updated>1646046323429</updated>
       <workItem from="1646046326042" duration="1802000" />
       <workItem from="1646048205233" duration="36000" />
-      <workItem from="1646048271082" duration="2083000" />
+      <workItem from="1646048271082" duration="2281000" />
     </task>
     <task id="LOCAL-00001" summary="11:06">
       <created>1646046418880</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646049941127</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="12:12">
+      <created>1646050369043</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646050369043</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +113,7 @@
     <MESSAGE value="11:49" />
     <MESSAGE value="11:59" />
     <MESSAGE value="12:05" />
-    <option name="LAST_COMMIT_MESSAGE" value="12:05" />
+    <MESSAGE value="12:12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12:12" />
   </component>
 </project>
