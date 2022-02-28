@@ -5,13 +5,14 @@
     box-sizing: border-box;
 }
 
-.hero {
+.hero{
     height: 100vh;
     width: 100%;
-    background-image: url(https://github.com/flaviojnsilva/myPage/blob/main/img/photo1.png?raw=true);
+    background-image: url(https://flaviojnsilva.github.io/myPage/img/photo1.png);
     background-size: cover;
     background-position: center;
 }
+
 
 nav {
     display: flex;
