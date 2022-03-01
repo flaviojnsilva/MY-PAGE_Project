@@ -14,15 +14,9 @@
 }
 
 span {
-    color: #2e53a8;
+    color: #989c9d;
 }
 
-.content {
-    position: absolute;
-    top: 50%;
-    left: 8%;
-    transform: translateY(-50%);
-}
 
 h1 {
     color: white;
@@ -45,7 +39,13 @@ h4 {
 .about {
     width: 100%;
     padding: 100px 0px;
-    background-color: #191919;
+    background-color: black;
+}
+
+.presentation {
+    width: 100%;
+    padding: 100px 0px;
+    background-color: black;
 }
 
 .about img {
@@ -83,7 +83,7 @@ h4 {
 }
 
 .about-text p {
-    color: #fcfc;
+    color: #ffffff;
     letter-spacing: 1px;
     line-height: 28px;
     font-size: 18px;
@@ -142,7 +142,7 @@ footer p:nth-child(2) {
 
 .end {
     position: absolute;
-    color: #2e53a8;
+    color: white;
     bottom: 35px;
     font-size: 14px;
 }
